@@ -116,7 +116,7 @@ export const DailyTip = () => {
               }`}
             >
               <Heart className={`h-4 w-4 mr-2 ${isLiked ? 'fill-pink-500 text-pink-500' : ''}`} />
-              {isLiked ? 'Сакам' : 'Сака ми се'}
+              {isLiked ? 'Сакам' : 'Сакам'}
             </Button>
             
             <Button
